@@ -1,5 +1,5 @@
 # Hi, my name is Evan 👋
-## I am very passionate about making an impact with technology and solving problems. I am interested in back-end development and working with 'big data'.Currently a student @WeThinkCode
+## I am very passionate about making an impact with technology and solving problems. I am interested in back-end development and working with 'big data'. Currently a student @WeThinkCode
 
 - 🔭 I’m currently working on learning new things and expanding my skillset.
 - 🌱 I’m currently learning python, java and working with android studio.
