@@ -2,7 +2,7 @@
 ## I am very passionate about making an impact with technology and solving problems. I am interested in back-end development and working with 'big data'. Currently a student @WeThinkCode
 
 - 🔭 I’m currently working on learning new things and expanding my skillset.
-- 🌱 I’m currently learning python, java and working with android studio.
+- 🌱 I’m currently learning python, java and how to work with android studio.
 - 📫 How to reach me: evanlab02@gmail.com 
 
 <!--
