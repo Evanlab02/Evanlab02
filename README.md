@@ -1,8 +1,8 @@
 # Hi, my name is Evan 👋
-## I am very passionate about making an impact with technology and solving problems. I am interested in back-end development. Currently a student @WeThinkCode
+### I am very passionate about making an impact with technology and solving problems. I am interested in Backend development, Dev Ops, Cloud Solutions and Data Science. Currently a student @WeThinkCode_
 
 - 🔭 I’m currently working on learning new things and expanding my skillset.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 🌱 I’m currently learning more about Systems Integration.
 - 📫 How to reach me: evanlabuschagne70@gmail.com 
 
 <!--
