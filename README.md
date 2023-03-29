@@ -1,5 +1,5 @@
 # Hi, my name is Evan 👋
-### I am very passionate about making an impact with technology and solving problems. I am interested in Backend development, Dev Ops, Cloud Solutions and Data Science. Currently a student @WeThinkCode_
+### I am very passionate about making an impact with technology and solving problems. I am interested in Backend development, Dev Ops, Cloud Solutions and Data Science. Currently a intern software engineer at NTT Ltd.
 
 - 🔭 I’m currently working on learning new things and expanding my skillset.
 - 🌱 I’m currently learning more about Systems Integration.
