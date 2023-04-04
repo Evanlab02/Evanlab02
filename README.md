@@ -1,7 +1,7 @@
 # Hi, my name is Evan 👋
 ### I am very passionate about making an impact with technology and solving problems. I am interested in Backend development, Dev Ops, Cloud Solutions and Data Science. Currently a intern software engineer at NTT Ltd.
 
-- 🔭 I’m currently working on learning new things and expanding my skillset.
+- 🔭 I’m currently working at NTT Ltd. where we are working with Python and React.
 - 🌱 I’m currently learning more about front-end development.
 - 📫 How to reach me: evanlabuschagne70@gmail.com 
 
