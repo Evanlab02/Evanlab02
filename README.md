@@ -26,5 +26,3 @@
 <a href="https://www.elastic.co/"><img src="https://github.com/Evanlab02/Evanlab02/assets/36800222/e464bfee-4b31-43b5-85f8-0d8b3825a3ec" style="height: 40px"/></a>
 </p>
 
-
-
