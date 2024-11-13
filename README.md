@@ -2,9 +2,8 @@
 ### I am very passionate about making an impact with technology and solving problems. I am interested in Backend development, frontend development, Dev Ops, Cloud Solutions and Data Science. Currently an associate software engineer at NTT Ltd.
 
 - 🔭 I’m currently working at NTT Ltd. where we are working with Python and React. Also working on a ShoppingList application (check out my repositories)
-- 🌱 I’m currently learning more about front-end development and advanced python concepts.
+- 🌱 I’m currently learning more about PHP and C#.
 - 📫 How to reach me: evanlabuschagne70@gmail.com
-- 💡 Fun fact: I love surfing but I am not very fond of the beach and sand.
 
 <h3 align='left'>Reach out to me</h3>
 
